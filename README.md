@@ -8,7 +8,7 @@
     height="24">
 </a>
 
-## Customize bulma for Javascript apps.
+## Templated SASS variables for the Bulma CSS framework.
 
 ### Either use the default `scss` variables Bulma provides along with `node-sass` or apply your own branding for extra flair.
 
